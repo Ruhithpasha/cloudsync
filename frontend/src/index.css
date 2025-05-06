@@ -1,0 +1,20 @@
+@import "tailwindcss";
+
+body {
+  background-color: black;
+  color: white;
+}
+
+/* Ensure all text and elements inside the website are styled appropriately */
+button, input, h1, h2, h3, p, div {
+  color: white;
+}
+
+/* Adjust borders and other elements to match the white theme */
+button {
+  border-color: white;
+}
+
+hr {
+  border-color: white;
+}
